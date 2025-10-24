@@ -1,0 +1,14 @@
+Perintah untuk aplikasi git
+[buat akun git]
+git config --global user.name "rifan04"
+git config --global user.email "rifandraabdiibrahim@gmail.com"
+git config --list
+hapus credensial windows
+
+git clone https://github.com/rifan04/rifan_samsung.git
+[add file]
+
+git add .
+got commit -m "server jdango test'
+git push origin main
+git log
